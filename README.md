@@ -1,3 +1,5 @@
+## This is meant for heroku
+
 ## In brief
 
 If you are on the road, behind fifteen firewalls, and want to share some web application you're developing locally, or just share a set of files with someone real quick; this tool will do the job!
